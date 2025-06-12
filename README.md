@@ -1,1 +1,1 @@
-# panday-photostat-stationery
+# panday-photostat & stationery
